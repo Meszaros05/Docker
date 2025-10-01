@@ -12,3 +12,5 @@ services:
 
 
 #RUN: "docker-compose up" --> it will start all the services 
+#RUN"docker-compose down" --> SHOT DOWN everything
+
